@@ -23,7 +23,8 @@
         },
         link: {
               insert: "Insérer un lien",
-              cancel: "Annuler"
+              cancel: "Annuler",
+	            target: "Ouvrir dans un nouvel onglet"
         },
         image: {
               insert: "Insérer une image",
